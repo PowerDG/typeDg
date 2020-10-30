@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dgHub\\dg2020\\typeDg\\type-a\\Note\\Note.csproj",
+      "projectUniqueName": "D:\\dgHub\\dg2020\\devTypeDg\\type-a\\Note\\Note.csproj",
       "projectName": "Note",
-      "projectPath": "D:\\dgHub\\dg2020\\typeDg\\type-a\\Note\\Note.csproj",
+      "projectPath": "D:\\dgHub\\dg2020\\devTypeDg\\type-a\\Note\\Note.csproj",
       "packagesPath": "C:\\Users\\v-pavwang\\.nuget\\packages\\",
-      "outputPath": "D:\\dgHub\\dg2020\\typeDg\\type-a\\Note\\obj\\",
+      "outputPath": "D:\\dgHub\\dg2020\\devTypeDg\\type-a\\Note\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\v-pavwang\\AppData\\Roaming\\NuGet\\NuGet.Config",

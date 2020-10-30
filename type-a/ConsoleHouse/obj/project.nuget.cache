@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G4SbJf0iElCvPSVhSL7Ade7ch/5kduOTj2dMc6eHwWGX3p00Xj3F8VCAV8UEavEb7ZN2zoZt2WDaAckhLzdRfQ==",
+  "dgSpecHash": "hYerehIkuxo+oS+qAdBeVweaksxK55OGNal9bgcHemTYeyWHNpaQ8XJ+vVagYWtvv1FaW1c8qF7mEzEpD7zJXA==",
   "success": true,
-  "projectFilePath": "D:\\dgHub\\dg2020\\typeDg\\type-a\\ConsoleHouse\\ConsoleHouse.csproj",
+  "projectFilePath": "D:\\dgHub\\dg2020\\devTypeDg\\type-a\\ConsoleHouse\\ConsoleHouse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\v-pavwang\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\v-pavwang\\.nuget\\packages\\microsoft.ml\\1.5.2\\microsoft.ml.1.5.2.nupkg.sha512",

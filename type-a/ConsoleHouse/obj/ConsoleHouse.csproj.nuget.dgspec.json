@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dgHub\\dg2020\\typeDg\\type-a\\ConsoleHouse\\ConsoleHouse.csproj": {}
+    "D:\\dgHub\\dg2020\\devTypeDg\\type-a\\ConsoleHouse\\ConsoleHouse.csproj": {}
   },
   "projects": {
-    "D:\\dgHub\\dg2020\\typeDg\\type-a\\ConsoleHouse\\ConsoleHouse.csproj": {
+    "D:\\dgHub\\dg2020\\devTypeDg\\type-a\\ConsoleHouse\\ConsoleHouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dgHub\\dg2020\\typeDg\\type-a\\ConsoleHouse\\ConsoleHouse.csproj",
+        "projectUniqueName": "D:\\dgHub\\dg2020\\devTypeDg\\type-a\\ConsoleHouse\\ConsoleHouse.csproj",
         "projectName": "ConsoleHouse",
-        "projectPath": "D:\\dgHub\\dg2020\\typeDg\\type-a\\ConsoleHouse\\ConsoleHouse.csproj",
+        "projectPath": "D:\\dgHub\\dg2020\\devTypeDg\\type-a\\ConsoleHouse\\ConsoleHouse.csproj",
         "packagesPath": "C:\\Users\\v-pavwang\\.nuget\\packages\\",
-        "outputPath": "D:\\dgHub\\dg2020\\typeDg\\type-a\\ConsoleHouse\\obj\\",
+        "outputPath": "D:\\dgHub\\dg2020\\devTypeDg\\type-a\\ConsoleHouse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\v-pavwang\\AppData\\Roaming\\NuGet\\NuGet.Config",
